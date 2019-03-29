@@ -46,4 +46,5 @@ Comments and Discusses are also welcome.
 
 Since it's my first time to write README.md, if there's something that this README.md doesn't say or my English is not good enough to let you know how to use, please tell me!  
 
-First written in 2019.03.30, Updated in 2019.03.30.
+First written in 2019/03/30.
+Updated in 2019/03/30.
