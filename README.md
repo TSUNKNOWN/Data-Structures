@@ -1,9 +1,8 @@
 # Data-Structures (DS)
 
 ## Notices
-1. "Deque" haven't be completed.  
-2. Only DS in C++ now. (Maybe I'll add other language's in the future.)  
-3. However, you can store any kind of datatype into my DS. (ex: int, yourClass, otherDSs)  
+Only DS in C++ now. (Maybe I'll add other language's in the future.)  
+However, you can store any kind of datatype into my DS. (ex: int, yourClass, otherDSs)  
 
 ## The Source
 These DSs were mostly adapted from the "**Data Structures and Advanced Program Design**" lecture (106-2) which was taught by **CHIEN CHIN CHEN** and **LING-CHIEH KUNG** in National Taiwan University (NTU).  
